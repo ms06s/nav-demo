@@ -9,20 +9,16 @@ const hashMap = hashObject || [
     url: 'https://www.acfun.cn',
   },
   {
-    logo: 'A',
-    url: 'https://www.aixifan.com',
+    logo: 'O',
+    url: 'https://outlook.live.com/',
   },
   {
-    logo: 'Q',
-    url: 'https://www.quebfun.com',
+    logo: 'M',
+    url: 'https://music.163.com/',
   },
   {
-    logo: 'A',
-    url: 'https://www.aliclic.com',
-  },
-  {
-    logo: 'A',
-    url: 'https://www.acer.com',
+    logo: 'G',
+    url: 'https://www.google.com/',
   },
 ]
 
