@@ -24,19 +24,17 @@
       <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/index.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/index.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/main.1caba2b4.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/main.1caba2b4.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/main.1f19ae8e.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/main.1f19ae8e.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/style.8d0fe1c2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/style.8d0fe1c2.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main.2f57147c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main.2f57147c.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/style.7e751915.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/style.7e751915.css.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/style.e308ff8e.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/style.e308ff8e.css.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/style.e308ff8e.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/style.e308ff8e.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +75,7 @@
       <updated>1597453081571</updated>
       <workItem from="1597453084209" duration="1576000" />
       <workItem from="1597594648162" duration="806000" />
-      <workItem from="1597628682445" duration="3418000" />
+      <workItem from="1597628682445" duration="3730000" />
     </task>
     <servers />
   </component>
