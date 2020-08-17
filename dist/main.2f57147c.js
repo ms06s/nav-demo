@@ -123,6 +123,21 @@ var $lastLi = $siteList.find('li.last');
 var hash = localStorage.getItem('hash');
 var hashObject = JSON.parse(hash);
 var hashMap = hashObject || [{
+  logo: 'G',
+  url: 'https://github.com/'
+}, {
+  logo: 'M',
+  url: 'https://developer.mozilla.org/zh-CN/'
+}, {
+  logo: 'W',
+  url: 'https://wikipedia.org/wiki/'
+}, {
+  logo: 'W',
+  url: 'https://youtube.com'
+}, {
+  logo: 'W',
+  url: 'https://juejin.im/'
+}, {
   logo: 'A',
   url: 'https://www.acfun.cn'
 }, {
@@ -175,4 +190,4 @@ $('.addButton').on('click', function () {
 //   localStorage.setItem('hash', string)
 // }
 },{}]},{},["epB2"], null)
-//# sourceMappingURL=main.1caba2b4.js.map
+//# sourceMappingURL=main.2f57147c.js.map

@@ -123,6 +123,21 @@ var $lastLi = $siteList.find('li.last');
 var hash = localStorage.getItem('hash');
 var hashObject = JSON.parse(hash);
 var hashMap = hashObject || [{
+  logo: 'G',
+  url: 'https://github.com/'
+}, {
+  logo: 'M',
+  url: 'https://developer.mozilla.org/zh-CN/'
+}, {
+  logo: 'W',
+  url: 'https://wikipedia.org/wiki/'
+}, {
+  logo: 'W',
+  url: 'https://youtube.com'
+}, {
+  logo: 'W',
+  url: 'https://juejin.im/'
+}, {
   logo: 'A',
   url: 'https://www.acfun.cn'
 }, {
@@ -202,7 +217,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "6530" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "13086" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};

@@ -5,6 +5,26 @@ const hash = localStorage.getItem('hash')
 const hashObject = JSON.parse(hash)
 const hashMap = hashObject || [
   {
+    logo: 'G',
+    url: 'https://github.com/',
+  },
+  {
+    logo: 'M',
+    url: 'https://developer.mozilla.org/zh-CN/',
+  },
+  {
+    logo: 'W',
+    url: 'https://wikipedia.org/wiki/',
+  },
+  {
+    logo: 'W',
+    url: 'https://youtube.com',
+  },
+  {
+    logo: 'W',
+    url: 'https://juejin.im/',
+  },
+  {
     logo: 'A',
     url: 'https://www.acfun.cn',
   },
