@@ -1,6 +1,7 @@
 const $siteList = $('.siteList')
 const $lastLi = $siteList.find('li.last')
 
+
 const hash = localStorage.getItem('hash')
 const hashObject = JSON.parse(hash)
 const hashMap = hashObject || [
